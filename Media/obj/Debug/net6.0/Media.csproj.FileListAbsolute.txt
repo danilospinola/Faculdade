@@ -1,0 +1,15 @@
+Z:\Programas\C# faculdade\Media\bin\Debug\net6.0\Media.exe
+Z:\Programas\C# faculdade\Media\bin\Debug\net6.0\Media.deps.json
+Z:\Programas\C# faculdade\Media\bin\Debug\net6.0\Media.runtimeconfig.json
+Z:\Programas\C# faculdade\Media\bin\Debug\net6.0\Media.dll
+Z:\Programas\C# faculdade\Media\bin\Debug\net6.0\Media.pdb
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\Media.AssemblyInfoInputs.cache
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\Media.AssemblyInfo.cs
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\Media.csproj.CoreCompileInputs.cache
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\Media.dll
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\refint\Media.dll
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\Media.pdb
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\Media.genruntimeconfig.cache
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\ref\Media.dll
+Z:\Programas\C# faculdade\Media\obj\Debug\net6.0\Media.csproj.AssemblyReference.cache
