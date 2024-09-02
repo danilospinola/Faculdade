@@ -1,0 +1,8 @@
+Z:\Programas\C# faculdade\VerificarIntervalo\bin\Debug\VerificarIntervalo.exe.config
+Z:\Programas\C# faculdade\VerificarIntervalo\bin\Debug\VerificarIntervalo.exe
+Z:\Programas\C# faculdade\VerificarIntervalo\bin\Debug\VerificarIntervalo.pdb
+Z:\Programas\C# faculdade\VerificarIntervalo\obj\Debug\VerificarIntervalo.csproj.AssemblyReference.cache
+Z:\Programas\C# faculdade\VerificarIntervalo\obj\Debug\VerificarIntervalo.csproj.SuggestedBindingRedirects.cache
+Z:\Programas\C# faculdade\VerificarIntervalo\obj\Debug\VerificarIntervalo.csproj.CoreCompileInputs.cache
+Z:\Programas\C# faculdade\VerificarIntervalo\obj\Debug\VerificarIntervalo.exe
+Z:\Programas\C# faculdade\VerificarIntervalo\obj\Debug\VerificarIntervalo.pdb

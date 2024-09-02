@@ -1,0 +1,8 @@
+Z:\Programas\C# faculdade\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+Z:\Programas\C# faculdade\ParOuImpar\bin\Debug\ParOuImpar.exe
+Z:\Programas\C# faculdade\ParOuImpar\bin\Debug\ParOuImpar.pdb
+Z:\Programas\C# faculdade\ParOuImpar\obj\Debug\ParOuImpar.csproj.AssemblyReference.cache
+Z:\Programas\C# faculdade\ParOuImpar\obj\Debug\ParOuImpar.csproj.SuggestedBindingRedirects.cache
+Z:\Programas\C# faculdade\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+Z:\Programas\C# faculdade\ParOuImpar\obj\Debug\ParOuImpar.exe
+Z:\Programas\C# faculdade\ParOuImpar\obj\Debug\ParOuImpar.pdb
