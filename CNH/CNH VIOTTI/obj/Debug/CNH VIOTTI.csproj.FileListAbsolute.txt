@@ -1,0 +1,7 @@
+Z:\Programas\C# faculdade\CNH\CNH VIOTTI\bin\Debug\CNH VIOTTI.exe.config
+Z:\Programas\C# faculdade\CNH\CNH VIOTTI\bin\Debug\CNH VIOTTI.exe
+Z:\Programas\C# faculdade\CNH\CNH VIOTTI\bin\Debug\CNH VIOTTI.pdb
+Z:\Programas\C# faculdade\CNH\CNH VIOTTI\obj\Debug\CNH VIOTTI.csproj.AssemblyReference.cache
+Z:\Programas\C# faculdade\CNH\CNH VIOTTI\obj\Debug\CNH VIOTTI.csproj.CoreCompileInputs.cache
+Z:\Programas\C# faculdade\CNH\CNH VIOTTI\obj\Debug\CNH VIOTTI.exe
+Z:\Programas\C# faculdade\CNH\CNH VIOTTI\obj\Debug\CNH VIOTTI.pdb

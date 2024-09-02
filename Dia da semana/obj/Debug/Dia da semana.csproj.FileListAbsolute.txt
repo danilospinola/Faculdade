@@ -1,0 +1,8 @@
+Z:\Programas\C# faculdade\Dia da semana\bin\Debug\Dia da semana.exe.config
+Z:\Programas\C# faculdade\Dia da semana\bin\Debug\Dia da semana.exe
+Z:\Programas\C# faculdade\Dia da semana\bin\Debug\Dia da semana.pdb
+Z:\Programas\C# faculdade\Dia da semana\obj\Debug\Dia da semana.csproj.AssemblyReference.cache
+Z:\Programas\C# faculdade\Dia da semana\obj\Debug\Dia da semana.csproj.SuggestedBindingRedirects.cache
+Z:\Programas\C# faculdade\Dia da semana\obj\Debug\Dia da semana.csproj.CoreCompileInputs.cache
+Z:\Programas\C# faculdade\Dia da semana\obj\Debug\Dia da semana.exe
+Z:\Programas\C# faculdade\Dia da semana\obj\Debug\Dia da semana.pdb

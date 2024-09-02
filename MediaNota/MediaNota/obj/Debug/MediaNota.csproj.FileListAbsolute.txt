@@ -1,0 +1,7 @@
+Z:\Programas\C# faculdade\MediaNota\MediaNota\bin\Debug\MediaNota.exe.config
+Z:\Programas\C# faculdade\MediaNota\MediaNota\bin\Debug\MediaNota.exe
+Z:\Programas\C# faculdade\MediaNota\MediaNota\bin\Debug\MediaNota.pdb
+Z:\Programas\C# faculdade\MediaNota\MediaNota\obj\Debug\MediaNota.csproj.AssemblyReference.cache
+Z:\Programas\C# faculdade\MediaNota\MediaNota\obj\Debug\MediaNota.csproj.CoreCompileInputs.cache
+Z:\Programas\C# faculdade\MediaNota\MediaNota\obj\Debug\MediaNota.exe
+Z:\Programas\C# faculdade\MediaNota\MediaNota\obj\Debug\MediaNota.pdb
