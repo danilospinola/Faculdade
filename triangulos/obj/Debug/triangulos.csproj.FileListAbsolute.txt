@@ -1,0 +1,8 @@
+Z:\Programas\C# faculdade\triangulos\bin\Debug\triangulos.exe.config
+Z:\Programas\C# faculdade\triangulos\bin\Debug\triangulos.exe
+Z:\Programas\C# faculdade\triangulos\bin\Debug\triangulos.pdb
+Z:\Programas\C# faculdade\triangulos\obj\Debug\triangulos.csproj.AssemblyReference.cache
+Z:\Programas\C# faculdade\triangulos\obj\Debug\triangulos.csproj.SuggestedBindingRedirects.cache
+Z:\Programas\C# faculdade\triangulos\obj\Debug\triangulos.csproj.CoreCompileInputs.cache
+Z:\Programas\C# faculdade\triangulos\obj\Debug\triangulos.exe
+Z:\Programas\C# faculdade\triangulos\obj\Debug\triangulos.pdb
